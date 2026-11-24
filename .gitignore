@@ -1,0 +1,14 @@
+# dataset
+online_retail.csv
+
+# python
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+
+# environment
+.venv/
+venv/
+env/
